@@ -1,12 +1,14 @@
-### Hi there 👋
+<p align="center">
+Hi there 👋
+  <h2 align="center">Profile Views</h2>
+  <h4 align="center">counting of visitors to this page in this section started from August, 2023</h4>
+</p>
 
-### Profile Views
-counting of visitors to this page in this section started from August, 2023
-
-![](https://count.getloli.com/get/@Cent1pedee?theme=rule34)
+![visitors](https://count.getloli.com/get/@Cent1pedee?theme=rule34#pic_center)
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+
 <p>
   
 <picture>
