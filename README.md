@@ -5,27 +5,31 @@ Hi there 👋
     <div align="center">
       <img src="https://count.getloli.com/get/@Cent1pedee?theme=rule34">
     </div>
+    <br>
+  <!--   GitHub stats graph -->
+  <h2 align="center">📈 GitHub Activity Graph:</h2>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cent1pedee/Cent1pedee/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cent1pedee/Cent1pedee/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/Cent1pedee/Cent1pedee/output/github-contribution-grid-snake.svg" />
+    </picture>
+    <br>
+  </div>
 </p>
 
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<p>
+  <div align="center">
+    
+  | GitHub Stats | Most Used |
+  |--------------|-----------|
+  | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cent1pedee&show_icons=true&theme=radical)| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cent1pedee&theme=radical&layout=compact)|
+  <br>
+  </div>
+ </p> 
 
 <p>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cent1pedee/Cent1pedee/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cent1pedee/Cent1pedee/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Cent1pedee/Cent1pedee/output/github-contribution-grid-snake.svg" />
-</picture>
-<br>
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cent1pedee&show_icons=true&theme=radical)                  | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cent1pedee&theme=radical&layout=compact) |
-<br>
-
+  <div align="center">
 <!--   my-skils -->
 
 | Property                                        | Data|
@@ -38,7 +42,7 @@ Hi there 👋
 | **Tools & Platform**                            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626)
 <br>
-
+  </div>
 </p>
 
 
