@@ -5,7 +5,7 @@ counting of visitors to this page in this section started from August, 2023
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:S
+### 📈 GitHub Activity Graph:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cent1pedee/Cent1pedee/output/github-contribution-grid-snake-dark.svg" />
